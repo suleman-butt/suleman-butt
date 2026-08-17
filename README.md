@@ -4,7 +4,7 @@ QA Engineer at Rossmann · Transitioning to DevOps & Cloud Engineering
 
 **Currently building:**
 - Self-hosted VPS infrastructure (Docker · Nginx · Cloudflare · Hetzner)
-- GCP ACE certification (exam planned Aug 2026)
+- GCP ACE certification (exam planned Nov 2026)
 - M.Sc. DevOps & Cloud Computing at IU (graduating May 2027)
 
 **Background:**
