@@ -1,4 +1,4 @@
-# Hi, I'm Suleman Butt
+# Hi, I'm Suleman
 
 QA Engineer @ Rossmann → DevOps & Cloud | Linux · CI/CD · GCP | iSAQB CPSA-F | M.Sc. (IU)
 
