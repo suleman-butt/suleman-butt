@@ -1,6 +1,6 @@
 # Hi, I'm Suleman Butt
 
-QA Engineer @ Rossmann → DevOps & Cloud | GCP · Linux · CI/CD | iSAQB CPSA-F | M.Sc. DevOps & Cloud (IU)
+QA Engineer @ Rossmann → DevOps & Cloud | Linux · CI/CD · GCP | iSAQB CPSA-F | M.Sc. (IU)
 
 🔍 Quality, architecture, and infrastructure sit at the center of my engineering mindset, with a focused transition moving deeper into DevOps and Cloud Engineering.
 
